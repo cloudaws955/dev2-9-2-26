@@ -1,15 +1,32 @@
-.DS_Store
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
+# Maven
 dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
+target/
 
-# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
-!/.mvn/wrapper/maven-wrapper.jar
+# IntelliJ IDEA
+*.iws
+*.iml
+*.ipr
+.idea/
 
-.idea
+# Eclipse
+.classpath
+.project
+.settings/
+bin
+
+# ---- Mac OS X
+.DS_Store?
+Icon?
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# ---- Windows
+# Windows image file caches
+Thumbs.db 
+# Folder config file
+Desktop.ini
+
+.mvn/.develocity/
