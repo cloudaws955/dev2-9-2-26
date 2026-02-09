@@ -1,0 +1,14 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); // Prints the message to the console
+    }
+}
+Explanpublic class Main: Declares a class named Main. The file must be saved as Main.java.
+public static void main(String[] args): The main method, which is the entry point for the program.
+System.out.println("Hello, World!");: This statement prints the string "Hello, World!" to the standard output and adds a new line. 
+How to Run Java Code
+To compile and run Java code, you need the Java Development Kit (JDK) installed. 
+Install the JDK: Download the latest JDK from Oracle or Dev.java and follow the installation instructions.
+Write the code: Save the code in a file named Main.java.
+Compile the code: Open your terminal or command prompt, navigate to the directory where you saved the file, and use the Java Compiler (javac):
+bash
