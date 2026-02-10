@@ -1,3 +1,41 @@
+
+HARINI AWS DEVOPS 
+Key Reasons for Using pom.xml
+Centralized Project Configuration: All project metadata, dependencies, plugins, and build settings are defined in one file.
+Automatic Dependency Management: Maven downloads and manages required libraries (and their transitive dependencies) automatically.
+Consistent Builds Across Environments: Ensures the same build behavior on different machines, CI pipelines, and production servers.
+Standardized Build Lifecycle: Controls phases like compile, test, package, install, and deploy without custom scripts.
+Easy Version Control and Maintenance: Dependency versions and plugin configurations can be updated in one place using properties.
+Support for Multi-Module Projects: Enables parent–child POMs for managing large, modular applications.
+Basic pom.xml Structure
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.geeks</groupId>
+    <artifactId>spring-gateway-security</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Maven
 dependency-reduced-pom.xml
 target/
