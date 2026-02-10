@@ -1,3 +1,56 @@
+Key Reasons for Using pom.xml Centralized Project Configuration: All project metadata, dependencies, plugins, and build settings are defined in one file. Automatic Dependency Management: Maven downloads and manages required libraries (and their transitive dependencies) automatically. Consistent Builds Across Environments: Ensures the same build behavior on different machines, CI pipelines, and production servers. Standardized Build Lifecycle: Controls phases like compile, test, package, install, and deploy without custom scripts. Easy Version Control and Maintenance: Dependency versions and plugin configurations can be updated in one place using properties. Support for Multi-Module Projects: Enables parent–child POMs for managing large, modular applications. Basic pom.xml Structure
+
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.geeks</groupId>
+<artifactId>spring-gateway-security</artifactId>
+<version>1.0-SNAPSHOT</version>
+
+<properties>
+Key Reasons for Using pom.xml Centralized Project Configuration: All project metadata, dependencies, plugins, and build settings are defined in one file. Automatic Dependency Management: Maven downloads and manages required libraries (and their transitive dependencies) automatically. Consistent Builds Across Environments: Ensures the same build behavior on different machines, CI pipelines, and production servers. Standardized Build Lifecycle: Controls phases like compile, test, package, install, and deploy without custom scripts. Easy Version Control and Maintenance: Dependency versions and plugin configurations can be updated in one place using properties. Support for Multi-Module Projects: Enables parent–child POMs for managing large, modular applications. Basic pom.xml Structure
+
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.geeks</groupId>
+<artifactId>spring-gateway-security</artifactId>
+<version>1.0-SNAPSHOT</version>
+
+<properties>
+Key Reasons for Using pom.xml Centralized Project Configuration: All project metadata, dependencies, plugins, and build settings are defined in one file. Automatic Dependency Management: Maven downloads and manages required libraries (and their transitive dependencies) automatically. Consistent Builds Across Environments: Ensures the same build behavior on different machines, CI pipelines, and production servers. Standardized Build Lifecycle: Controls phases like compile, test, package, install, and deploy without custom scripts. Easy Version Control and Maintenance: Dependency versions and plugin configurations can be updated in one place using properties. Support for Multi-Module Projects: Enables parent–child POMs for managing large, modular applications. Basic pom.xml Structure
+
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.geeks</groupId>
+<artifactId>spring-gateway-security</artifactId>
+<version>1.0-SNAPSHOT</version>
+
+<properties>
+Key Reasons for Using pom.xml Centralized Project Configuration: All project metadata, dependencies, plugins, and build settings are defined in one file. Automatic Dependency Management: Maven downloads and manages required libraries (and their transitive dependencies) automatically. Consistent Builds Across Environments: Ensures the same build behavior on different machines, CI pipelines, and production servers. Standardized Build Lifecycle: Controls phases like compile, test, package, install, and deploy without custom scripts. Easy Version Control and Maintenance: Dependency versions and plugin configurations can be updated in one place using properties. Support for Multi-Module Projects: Enables parent–child POMs for managing large, modular applications. Basic pom.xml Structure
+
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.geeks</groupId>
+<artifactId>spring-gateway-security</artifactId>
+<version>1.0-SNAPSHOT</version>
+
+<properties>
+Key Reasons for Using pom.xml Centralized Project Configuration: All project metadata, dependencies, plugins, and build settings are defined in one file. Automatic Dependency Management: Maven downloads and manages required libraries (and their transitive dependencies) automatically. Consistent Builds Across Environments: Ensures the same build behavior on different machines, CI pipelines, and production servers. Standardized Build Lifecycle: Controls phases like compile, test, package, install, and deploy without custom scripts. Easy Version Control and Maintenance: Dependency versions and plugin configurations can be updated in one place using properties. Support for Multi-Module Projects: Enables parent–child POMs for managing large, modular applications. Basic pom.xml Structure
+
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.geeks</groupId>
+<artifactId>spring-gateway-security</artifactId>
+<version>1.0-SNAPSHOT</version>
+
+<properties>
+
+
+
+
+
+
+
+
+
+
+
+
+
 public class Main: Declares a class named Main. The file must be saved as Main.java.
 public static void main(String[] args): The main method, which is the entry point for the program.
 System.out.println("Hello, World!");: This statement prints the string "Hello, World!" to the standard output and adds a new line. 
